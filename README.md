@@ -1,3 +1,12 @@
+cd path/to/your/simbajawangi_app
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/octaviadamai/simbajawangi_app.git
+git push origin master
+
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
