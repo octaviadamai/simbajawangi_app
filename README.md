@@ -11,6 +11,13 @@ git push origin master
 
 ## What is CodeIgniter?
 
+cd path/to/your/simbajawangi_app
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/octaviadamai/simbajawangi_app.git
+git push origin master
+
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
 More information can be found at the [official site](https://codeigniter.com).
 
